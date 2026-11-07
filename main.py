@@ -199,24 +199,24 @@ MOVIES_BASE = {
     }
 },
 "173": {
-    "title": "Omadsiz ritser",
-    "photo": "AgACAgIAAxkBAAIDCWpNWChJ79Jw9thk2TyrxqYmms6OAAJYG2sbwIhwSqDjRBUFRH1hAQADAgADeQADPAQ",
-    "info": "🎬 Nomi: Omadsiz ritser\n🎥 Qismi: 12/12\n🌍 Davlati: Yaponiya\n🗣 Til: O'zbek tilida\n📥 Yil: 2024\n🎞 Janr: Sarguzasht, Jangari\n\n🍿 @anizone_kawai",
-    "episodes": {
-        "1": "BAACAgIAAxkBAAIC62pNVF7Wfvv7pRRsOQWSHcuRMVgMAAKOOwAC8veBSrMnFjEQccGwPAQ",
-        "2": "BAACAgIAAxkBAAIC7GpNVF5vIcIOdtg7s9E0_Abg8Si9AAKbNAAC5RqoSmQe659MWPLVPAQ",
-        "3": "BAACAgIAAxkBAAIC72pNVSU0Uykphskt3--olG64t447AAJQQgACQszZSoSGO6rKKoqzPAQ",
-        "4": "BAACAgIAAxkBAAIC8GpNVSUV3eFLwD3TDK8oERQj9sXHAALxPQACBKxxSwABQg8lMRjTRzwE",
-        "5": "BAACAgIAAxkBAAIC82pNVUQtecYVE1aSG31JHFKMry0qAALwRAAChGeIS7SMY9JebaWbPAQ",
-        "6": "BAACAgIAAxkBAAIC9GpNVUQKBrdPkqFVd4uTtu3zWnmfAAKOQgACHhW5S6Ikb5llN6YePAQ",
-        "7": "BAACAgEAAxkBAAIC_WpNV3VCl50n0RHF_elRov3pqJ5fAAKiAwAChXJ5RGnKO_fjMv9oPAQ",
-        "8": "BAACAgIAAxkBAAIC_mpNV3VAQdKAy_CNGl3yJcAB3HZmAAKzRQACDcqZSEY_PdGAN_y4PAQ",
-        "9": "BAACAgIAAxkBAAIDAWpNV4Po9kgZudMtJL-xE7B84hPUAAJCOQACAwIoSV1W_fOsEh3RPAQ",
-        "10": "BAACAgIAAxkBAAIDAmpNV4OTZ5xUUeA2wjCmjMjdQ9hGAALnPgAC9LowSUjGCJQ1m2ojPAQ",
-        "11": "BAACAgIAAxkBAAIDA2pNV4PL4jzHYT2YLA6yjhuW4c-eAAJNOgACy8ppSb-WF-QiM39yPAQ",
-        "12": "BAACAgIAAxkBAAIDBGpNV4PWaNkQKm5ekBuv0_aflEiVAAJDQQACN1twScrF_u_PBWStPAQ"
+        "title": "Omadsiz ritser",
+        "photo": "AgACAgIAAxkBAAIDCWpNWChJ79Jw9thk2TyrxqYmms6OAAJYG2sbwIhwSqDjRBUFRH1hAQADAgADeQADPAQ",
+        "info": "🎬 Nomi: Omadsiz ritser\n🎥 Qismi: 12/12\n🌍 Davlati: Yaponiya\n🗣 Til: O'zbek tilida\n📥 Yil: 2024\n🎞 Janr: Sarguzasht, Jangari\n\n🍿 @anizone_kawai",
+        "episodes": {
+            "1": "BAACAgIAAxkBAAIC62pNVF7Wfvv7pRRsOQWSHcuRMVgMAAKOOwAC8veBSrMnFjEQccGwPAQ",
+            "2": "BAACAgIAAxkBAAIC7GpNVF5vIcIOdtg7s9E0_Abg8Si9AAKbNAAC5RqoSmQe659MWPLVPAQ",
+            "3": "BAACAgIAAxkBAAIC72pNVSU0Uykphskt3--olG64t447AAJQQgACQszZSoSGO6rKKoqzPAQ",
+            "4": "BAACAgIAAxkBAAIC8GpNVSUV3eFLwD3TDK8oERQj9sXHAALxPQACBKxxSwABQg8lMRjTRzwE",
+            "5": "BAACAgIAAxkBAAIC82pNVUQtecYVE1aSG31JHFKMry0qAALwRAAChGeIS7SMY9JebaWbPAQ",
+            "6": "BAACAgIAAxkBAAIC9GpNVUQKBrdPkqFVd4uTtu3zWnmfAAKOQgACHhW5S6Ikb5llN6YePAQ",
+            "7": "BAACAgEAAxkBAAIC_WpNV3VCl50n0RHF_elRov3pqJ5fAAKiAwAChXJ5RGnKO_fjMv9oPAQ",
+            "8": "BAACAgIAAxkBAAIC_mpNV3VAQdKAy_CNGl3yJcAB3HZmAAKzRQACDcqZSEY_PdGAN_y4PAQ",
+            "9": "BAACAgIAAxkBAAIDAWpNV4Po9kgZudMtJL-xE7B84hPUAAJCOQACAwIoSV1W_fOsEh3RPAQ",
+            "10": "BAACAgIAAxkBAAIDAmpNV4OTZ5xUUeA2wjCmjMjdQ9hGAALnPgAC9LowSUjGCJQ1m2ojPAQ",
+            "11": "BAACAgIAAxkBAAIDA2pNV4PL4jzHYT2YLA6yjhuW4c-eAAJNOgACy8ppSb-WF-QiM39yPAQ",
+            "12": "BAACAgIAAxkBAAIDBGpNV4PWaNkQKm5ekBuv0_aflEiVAAJDQQACN1twScrF_u_PBWStPAQ"
+        }
     }
-},
 "499": {
     "title": "Dragon raja",
     "photo": "AgACAgIAAxkBAAIDZGpNXIYRyRvEUUopHw7wMAm94XwaAAJ5G2sbwIhwSlwytTOl49GxAQADAgADeAADPAQ",
@@ -478,6 +478,8 @@ async def show_anime(message_or_callback, code):
             await message_or_callback.answer_photo(photo=photo, caption=info, reply_markup=keyboard)
         except Exception as e:
             print(f"❌ Rasm yuborishda xato: {e}")
+            if not info:
+        info = "Ma'lumot topilmadi."
             await message_or_callback.answer(info, reply_markup=keyboard)
     else:
         try:
