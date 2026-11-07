@@ -342,7 +342,28 @@ MOVIES_BASE = {
         "51": "BAACAgIAAxkBAAIFoWpbpj3BHZ9-g-6qDeYr05ynJgRLAAJoGQACxfEQSEbtuGXiVOdHPQQ"
     }
 },
-"159": {
+ "174": { 
+        "title": "DMC (Devil May Cry)",
+        "poster": "AgACAgIAAxkBAAIGzmrtakU31znLHhJX6paW9_yMo8L6AAJu9DEb_nd5SojvojFG-hHPAQADAgADdwADPQQ",
+        "caption": """🔥 **Anime nomi:** DMC (Devil May Cry)
+📊 **Qism:** 8 ta (Barchasi joylandi)
+📌 **Holati:** Tugallangan
+🎨 **Sifati:** 720p, 1080p
+📂 **Janrlari:** Jangari, Fantasy ⚔️✨
+
+📢 **Kanalimiz:** @anizone_kawai""",
+        "episodes": {
+            "1": "BAACAgQAAxkBAAIGvmrtaSwbqZuB79HrPE70pvfl23TfAALxFwACpc_gU3fMV8eIaH2FPQQ",
+            "2": "BAACAgQAAxkBAAIGwGrtaUlU-xEHKMfIotQwfV0g0NLwAALXFwAC3DMZUJqld3Bf8YuKPQQ",
+            "3": "BAACAgQAAxkBAAIGwmrtaU-JjESUTBVC1Joe7riR0pp9AAKAGQAClO4pUHKr48-jwdXNPQQ",
+            "4": "BAACAgQAAxkBAAIGxGrtaVtoN4xDTpwJ4ZgsYnsLuBk-AALdGgACuR6IUMEcHVFTXH_ZPQQ",
+            "5": "BAACAgQAAxkBAAIGxmrtaXEW97gvN0bKVcptE66LzUUiAAI6GgAC_vHAUNbNWsxhIvSCPQQ",
+            "6": "BAACAgQAAxkBAAIGyGrtaXm2dfaB2Krc2Qz-O6MhlVFEAAKtGQACAyPZUIC6S3BMasLRPQQ",
+            "7": "BAACAgQAAxkBAAIGymrtaX_-_Q26Dx0lI0eEQ2-Clz0oAAJ7FQACcZxYUUbWE-5x4hruPQQ",
+            "8": "BAACAgQAAxkBAAIGzGrtaYWq4cDookKq4mZdVp40axLtAAJaHAACs1WRUdu6u9ATZioVPQQ"
+        }
+ },
+  "159": {
         "title": "So'nggi serafim",
         "photo": "AgACAgIAAxkBAAO9akqVRdXAm0lnGlVm3bKTsUUe6rYAApPKMRvevthL9ZdR_Gv30LIBAAMCAAN4AAM8BA",
         "info": "🎬 Nomi: So'nggi serafim\n🎥 Qismi: 24\n🌍 Davlati: Yaponiya\n🗣 Til: O'zbek tilida\n Yil: 2025\n Janr: Ekshn, Sarguzasht, Fantaziya, Romantika, Jangari\n\n🍿 @anizone_kawai",
@@ -622,4 +643,4 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    ssh -Vasyncio.run(main())
